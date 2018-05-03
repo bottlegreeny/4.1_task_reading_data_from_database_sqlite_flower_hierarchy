@@ -116,12 +116,6 @@ class Flower {
  }
 
 
-
-
-
-
-
-
  public static class Bouquet {
 
    static Collection fill(Collection < Flower > collection) {
