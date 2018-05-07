@@ -5,10 +5,10 @@ import java.util.*;
 
 
 class Flower {
- String name;
- String colour;
- int cost;
- static int total;
+ private String name;
+ private String colour;
+ private int cost;
+ private static int total;
 
  Flower(String name, String colour, int cost) {
   this.name = name;
