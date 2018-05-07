@@ -27,12 +27,6 @@ class Flower {
  }
 
 
- public void print() {
-
-  System.out.print("In CuteFlowerStore you will find a ");
-
- }
-
  public void printCharacteristics() {
 
   System.out.println(name + " of " + colour + " colour are available only, " + cost + " pounds");
